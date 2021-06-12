@@ -1,0 +1,30 @@
+.cuerpo { 
+    padding: 0 6rem;
+}
+
+body { 
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+hr { 
+    background-color: #60EFE3;
+    height: 2px;
+}
+
+i { 
+    color: #fff;
+    padding-left: 1rem;
+}
+
+.navbar { 
+    background-color: transparent !important;
+}
+
+.navbar-brand { 
+    margin-left: 5rem;
+}
