@@ -16,3 +16,6 @@ Componentes utilizados: smooth scrolling y tooltip
 
 Formulario typeform
 Se ubica en la sección <!--Contacto--!>
+
+Página de GitHub
+https://valemagdalena.github.io/prueba_modulo1/
